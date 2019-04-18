@@ -1,29 +1,14 @@
 {
-  "features": [
     {
-      "id": 1,
       "name": "company"
+      "group" : "Group1"
     },
     {
-      "id": 2,
       "name": "IQ_REV"
+      "group" : "Group2"
     },
     {
-      "id": 3,
       "name": "IQ_Cash"
+      "group" : "Group3"
     }
-  ],
-  "description": [
-    {
-      "id": 1,
-      "description": "description1xxx"
-    },
-    {
-      "id": 2,
-      "description": "description2xxx"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
