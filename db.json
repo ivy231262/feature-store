@@ -2,30 +2,30 @@
 {
   "features": [
    {
-      "name": "company"
-      "group":"Group1"
+      "name": "company",
+      "group": "Group1"
     },
     {
-      "name": "IQ_REV"
+      "name": "IQ_REV",
       "group": "Group2"
     },
     {
-      "name": "IQ_Cash"
+      "name": "IQ_Cash",
       "group": "Group3"
     }
   ],
     
   "descriptions": [
     {
-      "name": "company"
+      "name": "company",
       "content": "descpription 1"
     },
     {
-      "name": "IQ_REV"
+      "name": "IQ_REV",
       "content": "descpription 2"
     },
     {
-      "name": "IQ_Cash"
+      "name": "IQ_Cash",
       "content": "descpription 3"
     }
   ],
