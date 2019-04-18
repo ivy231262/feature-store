@@ -3,7 +3,7 @@
   "features": [
    {
       "name": "company"
-      "group": "Group1"
+      "group":"Group1"
     },
     {
       "name": "IQ_REV"
