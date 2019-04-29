@@ -2,14 +2,17 @@
 {
   "features": [
    {
+      "id": 1,
       "name": "company",
       "group": "Group1"
     },
     {
+      "id": 2,
       "name": "IQ_REV",
       "group": "Group2"
     },
     {
+      "id": 3,
       "name": "IQ_Cash",
       "group": "Group3"
     }
